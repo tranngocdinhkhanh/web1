@@ -11,6 +11,6 @@
 public class NewClass {
     public static void main(String[] args) {
         System.out.println("cac");
-        System.out.println("vl);
+        System.out.println("vl");
     }
 }
